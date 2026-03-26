@@ -1,2 +1,2 @@
 Chapter 1
-I'm learning Git commands
+I'm learning Git commands and Github
