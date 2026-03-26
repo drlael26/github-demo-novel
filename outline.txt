@@ -1,2 +1,4 @@
 Chapter 1
 I'm learning Git commands and Github
+
+It is a long Udemy Course
