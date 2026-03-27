@@ -1,3 +1,7 @@
+==========
+CHARACTERS
+==========
+
 Automation Tester - needs git to commit changes to the automation tests repository
 
 Developer - needs git to commit changes to the code repository of the product
